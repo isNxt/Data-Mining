@@ -1,0 +1,121 @@
+pattern,counts
+milk-oil,151
+pasta-oil,141
+milk-frozen fish,147
+pasta-frozen fish,132
+milk-crackers,161
+pasta-crackers,142
+tunny-juices,102
+coke-juices,116
+milk-juices,398
+pasta-juices,258
+milk-pasta-juices,178
+biscuits-juices,171
+coffee-juices,124
+yoghurt-juices,147
+brioches-juices,171
+water-juices,204
+milk-rice,304
+pasta-rice,335
+milk-pasta-rice,167
+biscuits-rice,155
+coffee-rice,119
+water-rice,170
+coke-beer,174
+milk-beer,365
+pasta-beer,306
+milk-pasta-beer,170
+biscuits-beer,141
+coffee-beer,126
+brioches-beer,122
+water-beer,268
+tunny-coke,101
+milk-coke,452
+pasta-coke,399
+milk-pasta-coke,208
+biscuits-coke,188
+coffee-coke,153
+frozen vegetables-coke,115
+tomato souce-coke,156
+yoghurt-coke,118
+brioches-coke,197
+water-coke,340
+milk-tunny,466
+pasta-tunny,464
+milk-pasta-tunny,230
+biscuits-tunny,226
+coffee-tunny,194
+frozen vegetables-tunny,121
+tomato souce-tunny,135
+yoghurt-tunny,138
+brioches-tunny,181
+water-tunny,246
+milk-tomato souce,551
+pasta-tomato souce,575
+milk-pasta-tomato souce,324
+biscuits-tomato souce,210
+coffee-tomato souce,206
+frozen vegetables-tomato souce,141
+yoghurt-tomato souce,152
+brioches-tomato souce,172
+water-tomato souce,343
+milk-pasta-water-tomato souce,140
+milk-frozen vegetables,488
+pasta-frozen vegetables,440
+milk-pasta-frozen vegetables,235
+biscuits-frozen vegetables,218
+coffee-frozen vegetables,173
+yoghurt-frozen vegetables,137
+brioches-frozen vegetables,174
+water-frozen vegetables,267
+milk-yoghurt,645
+pasta-yoghurt,451
+milk-pasta-yoghurt,263
+biscuits-yoghurt,265
+coffee-yoghurt,194
+brioches-yoghurt,211
+water-yoghurt,317
+milk-pasta-water-yoghurt,104
+milk-brioches,669
+pasta-brioches,544
+milk-pasta-brioches,304
+biscuits-brioches,381
+coffee-brioches,228
+water-brioches,375
+milk-pasta-water-brioches,106
+milk-water-brioches,123
+milk-coffee,715
+pasta-coffee,581
+milk-pasta-coffee,321
+biscuits-coffee,345
+water-coffee,405
+milk-pasta-water-coffee,117
+milk-water-coffee,120
+milk-biscuits,951
+pasta-biscuits,698
+milk-pasta-biscuits,405
+water-biscuits,485
+milk-pasta-water-biscuits,154
+milk-water-biscuits,146
+milk-water,1246
+pasta-water,941
+milk-pasta-water,544
+milk-pasta,1692
+tunny,1003
+mozzarella,163
+milk,4740
+pasta,3719
+coke,1000
+crackers,344
+water,2630
+biscuits,1838
+juices,650
+oil,310
+coffee,1460
+tomato souce,1038
+yoghurt,1241
+brioches,1328
+beer,788
+frozen vegetables,1071
+rice,686
+frozen fish,313
