@@ -4,7 +4,7 @@
 - IDEA
 - Python 3.7
 ## Content
-### Fpa  
+### Fpa
     Apriori | FP-Growth
 ### Classifier
     NB | KNN | Decision Tree
